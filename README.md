@@ -1,3 +1,4 @@
+**JSTL**
         <dependency>
             <groupId>jakarta.servlet.jsp.jstl</groupId>
             <artifactId>jakarta.servlet.jsp.jstl-api</artifactId>
@@ -9,3 +10,10 @@
             <artifactId>glassfish-jstl</artifactId>
             <version>11.0.20</version>
         </dependency>
+
+
+**Tavlib**
+
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ taglib prefix="c" uri="jakarta.tags.core" %>
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
