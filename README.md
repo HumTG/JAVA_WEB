@@ -42,3 +42,6 @@
             <version>10.1.24</version>
         </dependency>
 
+## Config jsp
+        spring.mvc.view.prefix: webapp/WEB-INF/views/
+        spring.mvc.view.suffix: .jsp
