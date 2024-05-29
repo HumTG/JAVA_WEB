@@ -43,7 +43,7 @@
         </dependency>
 
 ## Config jsp
-        spring.mvc.view.prefix: webapp/WEB-INF/views/
+        spring.mvc.view.prefix: /WEB-INF/views/
         spring.mvc.view.suffix: .jsp
 
 ## Config SQL Server
